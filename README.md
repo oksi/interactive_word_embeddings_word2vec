@@ -17,3 +17,8 @@ In this project, we are going to focus on three learning objectives:
 - How to preprocess and prepare a text dataset comprising recipes.
 - How to train and use a Word2Vec model using Gensim.
 - How to effectively visualize and evaluate a trained model in an interactive graph network using NetworkX and Plotly.
+
+
+### Data
+
+This is the [dataset](https://eightportions.com/datasets/Recipes/#fn:1). It is collated by Ryan Lee, sourced from [Food Network](https://www.foodnetwork.com/), [Epicurious](https://www.epicurious.com/), and [Allrecipes](https://www.allrecipes.com/).
